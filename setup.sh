@@ -8,3 +8,5 @@ conda install -y -p $ENV_PATH \
   matplotlib \
   matplotlib-inline \
   pandas
+
+mkdir -p `pwd`/figures
