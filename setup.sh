@@ -9,4 +9,5 @@ conda install -y -p $ENV_PATH \
   matplotlib-inline \
   pandas
 
-mkdir -p `pwd`/figures
+mkdir -p `pwd`/figures/theta
+mkdir -p `pwd`/figures/surrogate
