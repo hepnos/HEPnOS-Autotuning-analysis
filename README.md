@@ -27,3 +27,8 @@ $ jupyter notebook
 
 This should open a new tab with Jupyterlab in your browser.
 From this tab, open the `Theta-result-analysis` notebook.
+
+## Parameter space
+
+All the parameters composing the parameter space used in these experiments
+are described in the above jupyter notebook.
